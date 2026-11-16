@@ -2,6 +2,8 @@
 
 An intelligent sales analytics dashboard that combines Machine Learning, data visualization and local AI to analyse retail sales performance, forecast future revenue and generate actionable business recommendations.
 
+**Live Dashboard:** [Open the deployed Streamlit app](https://smart-sales-forecasting-8wcew7o9zpun82btptmrck.streamlit.app/)
+
 ## 🚀 Project Overview
 
 The **Smart Sales Forecasting & Analytics Dashboard** helps businesses understand historical sales patterns, monitor performance and make data-driven decisions.
