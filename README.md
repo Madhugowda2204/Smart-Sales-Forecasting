@@ -44,6 +44,17 @@ Built using Python and Streamlit, the application integrates a Random Forest for
 - Interactive Plotly visualizations.
 - Downloadable filtered sales data.
 
+## 📸 Dashboard Preview
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Sales Forecasting
+![Sales Forecasting](screenshots/sales_forecast.png)
+
+### AI Recommendations
+![AI Recommendations](screenshots/ai_recommendations.png)
+
 ## 🛠️ Technologies Used
 
 | Area | Technologies |
